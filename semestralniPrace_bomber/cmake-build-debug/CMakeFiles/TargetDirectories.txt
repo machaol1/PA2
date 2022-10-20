@@ -1,0 +1,3 @@
+/mnt/c/Users/cdefg/CLionProjects/PA2/semestralniPrace_bomber/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/cdefg/CLionProjects/PA2/semestralniPrace_bomber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/cdefg/CLionProjects/PA2/semestralniPrace_bomber/cmake-build-debug/CMakeFiles/semestralniPrace_bomber.dir

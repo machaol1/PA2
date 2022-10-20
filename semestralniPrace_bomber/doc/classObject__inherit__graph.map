@@ -1,0 +1,9 @@
+<map id="Object" name="Object">
+<area shape="rect" id="node1" title=" " alt="" coords="126,5,190,32"/>
+<area shape="rect" id="node2" href="$classBomb.html" title=" " alt="" coords="5,80,65,107"/>
+<area shape="rect" id="node3" href="$classBuff.html" title=" " alt="" coords="90,80,138,107"/>
+<area shape="rect" id="node4" href="$classMovable.html" title=" " alt="" coords="163,80,241,107"/>
+<area shape="rect" id="node7" href="$classWall.html" title=" " alt="" coords="266,80,317,107"/>
+<area shape="rect" id="node5" href="$classEnemy.html" title=" " alt="" coords="123,155,190,181"/>
+<area shape="rect" id="node6" href="$classPlayer.html" title=" " alt="" coords="215,155,277,181"/>
+</map>
